@@ -33,3 +33,13 @@ Setting up my own private Ethereum network (for fun)
 ![image](https://user-images.githubusercontent.com/66274690/191579715-9e422dbe-e8c7-4986-9e00-c94404ce180d.png)
 
 ![image](https://user-images.githubusercontent.com/66274690/191579847-3b357154-58c5-4609-997d-8f112d43ef34.png)
+
+## 5) Creating Genesis for each node
+
+![image](https://user-images.githubusercontent.com/66274690/191597730-d2cc8c16-d463-43e2-8a88-655af2c29fd2.png)
+
+![image](https://user-images.githubusercontent.com/66274690/191597830-65cc1849-3209-4f34-9fc1-cdcdd43493b3.png)
+
+![image](https://user-images.githubusercontent.com/66274690/191598103-ce45a84f-f804-4bb3-bb7a-bca6a070596e.png)
+
+
