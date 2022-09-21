@@ -16,3 +16,13 @@ Setting up my own private Ethereum network (for fun)
 
 ![image](https://user-images.githubusercontent.com/66274690/191575644-07d16538-ce0a-4793-8ddd-bc6a7e64c570.png)
 
+## 3) Creating Accounts for each node
+
+![image](https://user-images.githubusercontent.com/66274690/191576631-e09ea057-e2c4-4d58-bc8f-da3bb3fe38bb.png)
+#
+![image](https://user-images.githubusercontent.com/66274690/191576808-b672fb6f-ea49-4037-bf88-cfb811a5c4a4.png)
+#
+![image](https://user-images.githubusercontent.com/66274690/191576902-6b939dc6-e0ea-4581-8dee-99d76a87e1f7.png)
+
+    Just for simplicity, I've kept all my passwords same and that too is the password for my ubuntu device
+
