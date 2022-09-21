@@ -44,7 +44,16 @@ Setting up my own private Ethereum network (for fun)
 
 ### 6) Running a Boot Node
 
-        URL : enode://f53a17d53f5cf9596295b7e25d142e9c3f93382023e14bf14c27946aafe91257ac03fee3caee6d6ffce237c114cadd55f5cce0e7d0d2f45a5dfb84cdc1dda7ff@127.0.0.1:0?discport=8009
+#
+
+URL:
+                            enode://f53a17d53f5cf9596295b7e25d142e9c3f93382023e14bf14c27946aafe91257ac03fee3caee6d6ffce237c114cadd55f5cce0e7d0d2f45a5dfb84cdc1dda7ff@127.0.0.1:0?                   discport=8009
+ 
+ Command:
+                      
+    geth --datadir data/node3 --nodiscover --syncmode ‘full’ -verbosity 6 --ipcdisable — port 30303 — bootnodes ‘enode://f53a17d53f5cf9596295b7e25d142e9c3f93382023e14bf14c27946aafe91257ac03fee3caee6d6ffce237c114cadd55f5cce0e7d0d2f45a5dfb84cdc1dda7ff@127.0.0.1:0?discport=8009’ --networkid 9876 --gasprice ‘1’ -unlock ‘0x219789a1844eF774Da4810e0437A105989b76332’ --password password.txt --mine
+
+#
 
 ![image](https://user-images.githubusercontent.com/66274690/191599767-d7803e6c-d475-423e-8c38-c352dae9e4b5.png)
 
