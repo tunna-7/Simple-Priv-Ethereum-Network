@@ -1,4 +1,4 @@
-# Private-Ethereum-Network
+# A Very-Simple-Private-Ethereum-Network
 Setting up my own private Ethereum network (for fun)
 
 ---
