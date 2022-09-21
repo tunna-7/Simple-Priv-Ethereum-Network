@@ -16,7 +16,7 @@ Setting up my own private Ethereum network (for fun)
 
 ![image](https://user-images.githubusercontent.com/66274690/191575644-07d16538-ce0a-4793-8ddd-bc6a7e64c570.png)
 
-## 3) Creating Accounts for each node
+## 3) Creating Accounts for each Node
 
 ![image](https://user-images.githubusercontent.com/66274690/191576631-e09ea057-e2c4-4d58-bc8f-da3bb3fe38bb.png)
 #
@@ -34,7 +34,7 @@ Setting up my own private Ethereum network (for fun)
 
 ![image](https://user-images.githubusercontent.com/66274690/191579847-3b357154-58c5-4609-997d-8f112d43ef34.png)
 
-## 5) Creating Genesis for each node
+## 5) Creating Genesis for each Node
 
 ![image](https://user-images.githubusercontent.com/66274690/191597730-d2cc8c16-d463-43e2-8a88-655af2c29fd2.png)
 
@@ -42,4 +42,13 @@ Setting up my own private Ethereum network (for fun)
 
 ![image](https://user-images.githubusercontent.com/66274690/191598103-ce45a84f-f804-4bb3-bb7a-bca6a070596e.png)
 
+### 6) Running a Boot Node
+
+        URL : enode://f53a17d53f5cf9596295b7e25d142e9c3f93382023e14bf14c27946aafe91257ac03fee3caee6d6ffce237c114cadd55f5cce0e7d0d2f45a5dfb84cdc1dda7ff@127.0.0.1:0?discport=8009
+
+![image](https://user-images.githubusercontent.com/66274690/191599767-d7803e6c-d475-423e-8c38-c352dae9e4b5.png)
+
+### 7)
+### 8)
+### 9)
 
