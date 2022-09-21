@@ -23,6 +23,13 @@ Setting up my own private Ethereum network (for fun)
 ![image](https://user-images.githubusercontent.com/66274690/191576808-b672fb6f-ea49-4037-bf88-cfb811a5c4a4.png)
 #
 ![image](https://user-images.githubusercontent.com/66274690/191576902-6b939dc6-e0ea-4581-8dee-99d76a87e1f7.png)
-
+#
     Just for simplicity, I've kept all my passwords same and that too is the password for my ubuntu device
+#
+![image](https://user-images.githubusercontent.com/66274690/191577425-db4c8a82-5b6d-4ba2-a252-f0929a445ba7.png)
 
+## 4) Configuring Genesis
+
+![image](https://user-images.githubusercontent.com/66274690/191579715-9e422dbe-e8c7-4986-9e00-c94404ce180d.png)
+
+![image](https://user-images.githubusercontent.com/66274690/191579847-3b357154-58c5-4609-997d-8f112d43ef34.png)
